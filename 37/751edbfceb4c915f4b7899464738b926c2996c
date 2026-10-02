@@ -1,0 +1,37 @@
+servers/mailtrap/server.yaml
+  s_d0347906b41170::t_2f01bdb4a8c167 16,50
+  s_695dc9c0ac14d9::t_3d9f5e28697187 7-15,18-47,53
+  s_4ed2b2378e51ea::t_3d65216df60a8c 1-6,17,48-49,51-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "37751edbfceb4c915f4b7899464738b926c2996c",
+  "prompts": {},
+  "sessions": {
+    "s_4ed2b2378e51ea": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2340878b-2316-427a-bc23-65bb5cba393b",
+        "model": "auto-smart"
+      },
+      "human_author": "Leonid Shevtsov <leonid@shevtsov.me>"
+    },
+    "s_695dc9c0ac14d9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0c850923-744d-4463-8e93-2fe02c4f0850",
+        "model": "composer-2.5"
+      },
+      "human_author": "Leonid Shevtsov <leonid@shevtsov.me>"
+    },
+    "s_d0347906b41170": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9519f38c-e3a8-4e75-99d4-357a9eeae56e",
+        "model": "auto-smart"
+      },
+      "human_author": "Leonid Shevtsov <leonid@shevtsov.me>"
+    }
+  }
+}
