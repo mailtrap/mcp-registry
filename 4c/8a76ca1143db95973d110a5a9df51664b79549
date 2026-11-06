@@ -1,0 +1,19 @@
+servers/mailtrap/server.yaml
+  s_c9a1da40deb8dd::t_fad4b8730741ec 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c8a76ca1143db95973d110a5a9df51664b79549",
+  "prompts": {},
+  "sessions": {
+    "s_c9a1da40deb8dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b2c61898-644b-42ec-893b-3c97b115ef10",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marcin Klocek <marcin.klocek@railsware.com>"
+    }
+  }
+}
